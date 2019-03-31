@@ -1,0 +1,23 @@
+{
+  "name": "moment-js-tutorial-with-example-from-scratch",
+  "version": "1.0.0",
+  "description": "Moment JS Tutorial With Example From Scratch is today’s leading topic.  The moment.js is an excellent library JavaScript library that helps you manage dates, in the browser and Node.js as well. Working with the dates and times have always been a bit difficult. I have always thought that the JavaScript library for manipulating dates would be very helpful. Moment.js, the impressive JavaScript library for validating, parsing and manipulating dates and times. The moment object in Moment.js is mutable. It means that operations like add, subtract, or set change the original moment object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findforhad/moment-js-tutorial-with-example-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/findforhad/moment-js-tutorial-with-example-from-scratch/issues"
+  },
+  "homepage": "https://github.com/findforhad/moment-js-tutorial-with-example-from-scratch#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
